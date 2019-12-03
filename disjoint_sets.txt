@@ -1,0 +1,16 @@
+# transporter vs catalytic
+GO:0005215 ! transporter activity
+GO:0003824 ! catalytic activity
+
+# synthesis/catabolism: one or the other
+GO:0009058 ! biosynthetic process
+GO:0009056 ! catabolic process
+
+# assembly vs disassembly
+GO:0022607 ! cellular component assembly
+GO:0022411 ! cellular component disassembly
+
+# development
+GO:0009653 ! anatomical structure morphogenesis
+GO:0071695 ! anatomical structure maturation
+GO:0048646 ! anatomical structure formation involved in morphogenesis
